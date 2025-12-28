@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>arXiv Query: search_query=all:machine+learning</title>
+  <id>http://arxiv.org/api/cits7KYOLJuBDbUbHI2Jow</id>
+  <updated>2025-04-26T00:00:00-00:00</updated>
+  <entry>
+    <id>http://arxiv.org/abs/2501.12345</id>
+    <title>Advanced Machine Learning Techniques</title>
+    <summary>This paper discusses advanced machine learning techniques.</summary>
+    <author>
+      <name>John Smith</name>
+    </author>
+    <published>2025-01-15T00:00:00-00:00</published>
+    <updated>2025-01-15T00:00:00-00:00</updated>
+    <link href="http://arxiv.org/abs/2501.12345" rel="alternate" type="text/html"/>
+    <link href="http://arxiv.org/pdf/2501.12345" rel="related" type="application/pdf"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2501.67890</id>
+    <title>Deep Learning for Computer Vision</title>
+    <summary>This paper explores deep learning techniques for computer vision tasks.</summary>
+    <author>
+      <name>Jane Doe</name>
+    </author>
+    <published>2025-01-20T00:00:00-00:00</published>
+    <updated>2025-01-20T00:00:00-00:00</updated>
+    <link href="http://arxiv.org/abs/2501.67890" rel="alternate" type="text/html"/>
+    <link href="http://arxiv.org/pdf/2501.67890" rel="related" type="application/pdf"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2502.12345</id>
+    <title>Reinforcement Learning Advances</title>
+    <summary>This paper presents recent advances in reinforcement learning.</summary>
+    <author>
+      <name>Robert Johnson</name>
+    </author>
+    <published>2025-02-05T00:00:00-00:00</published>
+    <updated>2025-02-05T00:00:00-00:00</updated>
+    <link href="http://arxiv.org/abs/2502.12345" rel="alternate" type="text/html"/>
+    <link href="http://arxiv.org/pdf/2502.12345" rel="related" type="application/pdf"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
